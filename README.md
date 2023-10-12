@@ -14,13 +14,13 @@
 <p align="left">
 🎓 Golang language developer, learning enthusiast in the IT world
 
-🎥 PEQUEÑO STREMEAR EN FACEBOOK GAMING 
+🎥 LITTLE STREAMER ON FACEBOOK GAMING
 
 💻 Fun fact : - Food and Music🎵 I really like avatar the path of water.
 
-📝 roles en el ámbito: desarrollador...
+📝 Roles in the field: developer...
 
-📫 Contacto: **emmanuel2303cp**
+📫 Contact: **emmanuel2303cp@gmail.com**
 
 
 <br>
