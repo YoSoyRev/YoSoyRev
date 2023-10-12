@@ -39,12 +39,7 @@
 </p>
 <br>
 
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=yosoyrev"
-    alt="adam-pw" 
-    bg_color=#808080/></p>
-
+<h3>Statistical Data </h3>
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yosoyrev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10""
@@ -52,7 +47,6 @@
 
 <br>
 
-<p><img align="center" src="https://streak-stats.demolab.com?user=YoSoyRev&theme=dark&hide_border=true&locale=es" alt="GitHub Streak" /></p>
       
 
 
