@@ -42,6 +42,10 @@
 <h3>Statistical Data </h3>
 <br>
 
+<p>&nbsp;<img align="center" src="https://streak-stats.demolab.com?user=YoSoyRev&theme=monokai" alt="GitHub Streak"/></p>
+
+<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yosoyrev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10""
     alt="adam-pw" /></p>
 
