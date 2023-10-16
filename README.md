@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Carmona</h1>
-<h3 align="center">Golang language Developer</h3>
+<h3 align="center">Sofware Developer</h3>
 
 <br>
 
@@ -12,7 +12,7 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 Golang language developer, learning enthusiast in the IT world
+🎓 Back end and mobile developer learning enthusiast in the IT world
 
 🎥 LITTLE STREAMER ON FACEBOOK GAMING
 
@@ -34,7 +34,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,googlecloud,vscode,golang,postgres,sqlite,linux,postman,mongodb,mysql,git,github" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,googlecloud,vscode,golang,postgres,sqlite,linux,postman,mongodb,mysql,git,github,firebase,androidstudio,kotlin" />
   </a>
 </p>
 <br>
