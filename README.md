@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Carmona</h1>
-<h3 align="center">Sofware Developer</h3>
+<h3 align="center">DevOps Jr</h3>
 
 <br>
 
@@ -12,13 +12,13 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 Back end and mobile developer learning enthusiast in the IT world
+🎓 information technology security student and learning enthusiast in the IT world
 
-🎥 LITTLE STREAMER ON FACEBOOK GAMING
+🎥 LITTLE STREAMER ON FACEBOOK GAMING (FROM MEXICO "ARRIBA EL POZOLE")
 
 💻 Fun fact : - Food and Music🎵 I really like avatar the path of water.
 
-📝 Roles in the field: developer...
+📝 Roles in the field: deployment and automation with applications and software
 
 📫 Contact: **emmanuel2303cp@gmail.com**
 
@@ -34,7 +34,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,googlecloud,vscode,golang,postgres,sqlite,linux,postman,mongodb,mysql,git,github,firebase,androidstudio,kotlin" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,googlecloud,vscode,golang,linux,git,github,python,azure,aws,gitlab,jenkins,bash" />
   </a>
 </p>
 <br>
