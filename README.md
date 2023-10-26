@@ -16,7 +16,7 @@
 
 🎥 LITTLE STREAMER ON FACEBOOK GAMING (FROM MEXICO "ARRIBA EL POZOLE")
 
-💻 Fun fact : - Food and Music🎵 I really like avatar the path of water.
+💻 Fun fact : - Food and Music🎵 I really like avatar the way of water.
 
 📝 Roles in the field: deployment and automation with applications and software
 
