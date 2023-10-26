@@ -14,13 +14,16 @@
 <p align="left">
 🎓 information technology security student and learning enthusiast in the IT world
 
-🎥 LITTLE STREAMER ON FACEBOOK GAMING (FROM MEXICO "ARRIBA EL POZOLE")
+🎥 LITTLE STREAMER ON TWITCH (FROM MEXICO "ARRIBA EL POZOLE")
 
 💻 Fun fact : - Food and Music🎵 I really like avatar the way of water.
 
 📝 Roles in the field: deployment and automation with applications and software
 
 📫 Contact: **emmanuel2303cp@gmail.com**
+
+🎥 MY TWITCH: https://www.twitch.tv/yosoyrev
+
 
 
 <br>
