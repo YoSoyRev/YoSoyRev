@@ -37,7 +37,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,vscode,golang,linux,git,github,githubactions,python,aws,gitlab,jenkins,bash,heroku,vercel,netlify," />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,vscode,linux,git,github,githubactions,python,aws,gitlab,jenkins,bash,heroku,vercel,netlify" />
   </a>
 </p>
 <br>
