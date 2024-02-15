@@ -33,7 +33,7 @@
 
 <br>
 
-<h2 >IT TECHNOLOGIES👨🏻‍💻</h2>
+<h2 >IT TECHNOLOGIES👨🏻‍💻 AND MORE</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
