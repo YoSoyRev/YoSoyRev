@@ -37,17 +37,11 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,vscode,linux,git,github,githubactions,python,aws,gitlab,jenkins,bash,heroku,vercel,netlify" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,vscode,linux,git,github,githubactions,python,aws,gitlab,jenkins,heroku,vercel,netlify,terraform," />
   </a>
 </p>
 <br>
 
-<h3>Statistical Data </h3>
-<br>
-
-<p>&nbsp;<img align="center" src="https://streak-stats.demolab.com?user=YoSoyRev&theme=monokai" alt="GitHub Streak"/></p>
-
-<br>
 
 
 
