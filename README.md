@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Carmona</h1>
-<h3 align="center">DevOps Jr</h3>
+<h3 align="center">Learning ciber security</h3>
 
 <br>
 
@@ -37,7 +37,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,vscode,linux,git,github,githubactions,python,aws,gitlab,jenkins,heroku,vercel,netlify,terraform," />
+    <img src="https://skillicons.dev/icons?i=docker,vscode,linux,git,github,python,bashell" />
   </a>
 </p>
 <br>
