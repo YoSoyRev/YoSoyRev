@@ -18,7 +18,7 @@
 
 💻 Fun fact : - Food and Music🎵 I really like avatar the way of water.
 
-📝 Roles in the field: deployment and automation with applications and software
+📝 Roles in the field: penetration testing and development malware
 
 📫 Contact: **emmanuel2303cp@gmail.com**
 
@@ -37,7 +37,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,vscode,linux,git,github,python,postman,docker,kubernetes,jenkins,ansible,grafana,terraform,gitlab,azure,googlecloud,go," />
+    <img src="https://skillicons.dev/icons?i=aws,vscode,linux,git,github,python,postman,docker,js,php,go" />
   </a>
 </p>
 <br>
