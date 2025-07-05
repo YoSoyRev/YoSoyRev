@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Carmona</h1>
-<h3 align="center">Learning ciber security and programing</h3>
+<h3 align="center">Threat Hunting , BugHunter , malware Analyst</h3>
 
 <br>
 
