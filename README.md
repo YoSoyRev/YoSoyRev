@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Carmona</h1>
-<h3 align="center">Threat Hunting , BugHunter , malware Analyst</h3>
-
+<h3 align="center">malware Analyst,Data Analyst , Machine Learning AND IA</h3>
 <br>
 
 
@@ -12,13 +11,13 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 information technology security student and learning enthusiast in the IT world
-
-🎥 LITTLE STREAMER ON TWITCH (FROM MEXICO "ARRIBA EL POZOLE")
+🎓 information technology student and learning enthusiast in the IT world
+ 
+🎥 CREATOR CONTENT GAMING   (FROM MEXICO "ARRIBA EL POZOLE")
 
 💻 Fun fact : - Food and Music🎵 I really like avatar the way of water.
 
-📝 Roles in the field: penetration testing and development malware
+📝 Roles in the field: DATA Analyst , Malware Analyst , Pentester
 
 📫 Contact: **emmanuel2303cp@gmail.com**
 
