@@ -17,7 +17,7 @@
 
 💻 Fun fact : - Food and Music🎵 I really like avatar the way of water.
 
-📝 Roles in the field: DATA Analyst , Malware Analyst , Pentester
+📝 Roles in the field: Malware Analyst , Pentester
 
 📫 Contact: **emmanuel2303cp@gmail.com**
 
@@ -36,7 +36,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,linux,git,github,python,c,postman,windows" />
+    <img src="https://skillicons.dev/icons?i=vscode,linux,git,github,python,c,postman,windows,js" />
   </a>
 </p>
 <br>
