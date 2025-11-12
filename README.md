@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Carmona</h1>
-<h3 align="center">Learning Cybersecurity and Ehtical Hacker</h3>
+<h3 align="center">Learning Cybersecurity , Ehtical Hacker and Sofware Engineer </h3>
 <br>
 
 
@@ -17,7 +17,7 @@
 
 💻 Fun fact : - Food and Music🎵 I really like avatar the way of water.
 
-📝 Roles in the field: Malware Analyst , Pentester
+📝 Roles in the field: Sofware Engineer , Pentester
 
 📫 Contact: **emmanuel2303cp@gmail.com**
 
@@ -36,7 +36,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,linux,git,github,python,c,postman,windows,js" />
+    <img src="https://skillicons.dev/icons?i=vscode,linux,git,github,python,c,postman,windows,js,rust,c++" />
   </a>
 </p>
 <br>
