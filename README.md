@@ -17,7 +17,7 @@
 
 💻 Fun fact : - Food and Music🎵 I really like avatar the way of water.
 
-📝 Roles in the field: Sofware Engineer , Pentester
+📝 Roles in the field: Vulnerability Analyst, BugHunter , Linux Kernel Developer
 
 📫 Contact: **emmanuel2303cp@gmail.com**
 
