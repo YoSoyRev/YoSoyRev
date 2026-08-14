@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Carmona</h1>
-<h3 align="center">Learning Cybersecurity , BugHunter and Linux Kernel </h3>
+<h3 align="center">Learning Cybersecurity , BugHunter , Security Research and Linux Kernel </h3>
 <br>
 
 
@@ -36,7 +36,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,linux,git,github,python,c,postman,windows,js,rust,c++" />
+    <img src="https://skillicons.dev/icons?i=vscode,linux,git,github,python,c,postman,windows,js,rust,c," />
   </a>
 </p>
 <br>
